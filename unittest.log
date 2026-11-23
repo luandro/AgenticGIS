@@ -1,0 +1,56 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-luandro'
+test_catalog_matches_literal_translation_calls (test_i18n.CatalogTests.test_catalog_matches_literal_translation_calls) ... ok
+test_finished_messages_and_placeholders (test_i18n.CatalogTests.test_finished_messages_and_placeholders) ... ok
+test_corrupt_and_language_only_catalog (test_i18n.LocaleTests.test_corrupt_and_language_only_catalog) ... ok
+test_locale_matrix (test_i18n.LocaleTests.test_locale_matrix) ... ok
+test_plugin_lifecycle (test_i18n.LocaleTests.test_plugin_lifecycle) ... ok
+test_stdio_and_rpc_frames_match_across_locales (test_i18n.McpTests.test_stdio_and_rpc_frames_match_across_locales) ... ok
+test_names_and_history_are_snapshots (test_i18n.SessionTests.test_names_and_history_are_snapshots) ... ok
+test_agent_text_and_synthesized_cancel (test_permissions.PermissionTests.test_agent_text_and_synthesized_cancel) ... This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+ok
+test_external_permission_decisions (test_permissions.PermissionTests.test_external_permission_decisions) ... This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+ok
+test_stale_session_prompt_cannot_grant_gee_access (test_permissions.PermissionTests.test_stale_session_prompt_cannot_grant_gee_access) ... This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+ok
+test_translated_label_is_not_an_authorization_value (test_permissions.PermissionTests.test_translated_label_is_not_an_authorization_value) ... This plugin does not support propagateSizeHints()
+This plugin does not support propagateSizeHints()
+ok
+test_dates_counts_and_tool_names (test_presentation.PresentationTests.test_dates_counts_and_tool_names) ... ok
+test_generated_chart_titles_preserve_wire_values (test_presentation.PresentationTests.test_generated_chart_titles_preserve_wire_values) ... ok
+test_result_controls_and_raw_stats_export (test_presentation.PresentationTests.test_result_controls_and_raw_stats_export) ... ok
+test_save_filters_and_markdown_bytes (test_presentation.PresentationTests.test_save_filters_and_markdown_bytes) ... ok
+test_sessions_at_narrow_width_and_font_scales (test_presentation.PresentationTests.test_sessions_at_narrow_width_and_font_scales) ... This plugin does not support raise()
+This plugin does not support grabbing the keyboard
+This plugin does not support raise()
+This plugin does not support grabbing the keyboard
+This plugin does not support raise()
+This plugin does not support grabbing the keyboard
+This plugin does not support raise()
+This plugin does not support grabbing the keyboard
+ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 2.379s
+
+OK
