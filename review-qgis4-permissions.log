@@ -1,0 +1,160 @@
+PROMPT 236 36 36
+ROW en_US 0.75 320 210 12 11 Allow once
+ROW en_US 0.75 320 210 11 11 Allow all GEE tools for this session
+ROW en_US 0.75 320 210 11 11 Always allow
+ROW en_US 0.75 320 210 11 11 Deny
+ROW en_US 0.75 320 210 12 10 Permit this operation, then ask again next time.
+ROW en_US 0.75 320 210 19 20 Permit all Earth Engine operations during this chat session.
+ROW en_US 0.75 320 210 19 20 Permit external access now and remember this choice.
+ROW en_US 0.75 320 210 20 20 Block this operation and keep analysis inside loaded layers.
+en_US 0.75 320 {"width": 320, "height": 650, "scroll_max": 7, "keyboard": "passed"}
+PROMPT 350 24 24
+ROW en_US 0.75 420 324 12 11 Allow once
+ROW en_US 0.75 420 324 12 11 Allow all GEE tools for this session
+ROW en_US 0.75 420 324 12 11 Always allow
+ROW en_US 0.75 420 324 12 11 Deny
+ROW en_US 0.75 420 324 12 10 Permit this operation, then ask again next time.
+ROW en_US 0.75 420 324 12 10 Permit all Earth Engine operations during this chat session.
+ROW en_US 0.75 420 324 12 10 Permit external access now and remember this choice.
+ROW en_US 0.75 420 324 12 10 Block this operation and keep analysis inside loaded layers.
+en_US 0.75 420 {"width": 420, "height": 650, "scroll_max": 0, "keyboard": "passed"}
+PROMPT 250 48 48
+ROW en_US 1 320 224 14 14 Allow once
+ROW en_US 1 320 224 26 28 Allow all GEE tools for this session
+ROW en_US 1 320 224 14 14 Always allow
+ROW en_US 1 320 224 14 14 Deny
+ROW en_US 1 320 224 26 26 Permit this operation, then ask again next time.
+ROW en_US 1 320 224 26 26 Permit all Earth Engine operations during this chat session.
+ROW en_US 1 320 224 26 26 Permit external access now and remember this choice.
+ROW en_US 1 320 224 26 26 Block this operation and keep analysis inside loaded layers.
+en_US 1 320 {"width": 320, "height": 650, "scroll_max": 0, "keyboard": "passed"}
+PROMPT 336 32 32
+ROW en_US 1 420 310 14 14 Allow once
+ROW en_US 1 420 310 14 14 Allow all GEE tools for this session
+ROW en_US 1 420 310 14 14 Always allow
+ROW en_US 1 420 310 14 14 Deny
+ROW en_US 1 420 310 13 13 Permit this operation, then ask again next time.
+ROW en_US 1 420 310 25 26 Permit all Earth Engine operations during this chat session.
+ROW en_US 1 420 310 13 13 Permit external access now and remember this choice.
+ROW en_US 1 420 310 25 26 Block this operation and keep analysis inside loaded layers.
+en_US 1 420 {"width": 420, "height": 650, "scroll_max": 13, "keyboard": "passed"}
+PROMPT 236 120 120
+ROW en_US 1.5 320 210 21 21 Allow once
+ROW en_US 1.5 320 210 42 42 Allow all GEE tools for this session
+ROW en_US 1.5 320 210 21 21 Always allow
+ROW en_US 1.5 320 210 21 21 Deny
+ROW en_US 1.5 320 210 38 38 Permit this operation, then ask again next time.
+ROW en_US 1.5 320 210 56 57 Permit all Earth Engine operations during this chat session.
+ROW en_US 1.5 320 210 57 57 Permit external access now and remember this choice.
+ROW en_US 1.5 320 210 57 57 Block this operation and keep analysis inside loaded layers.
+en_US 1.5 320 {"width": 320, "height": 650, "scroll_max": 148, "keyboard": "passed"}
+PROMPT 336 72 72
+ROW en_US 1.5 420 310 21 21 Allow once
+ROW en_US 1.5 420 310 41 42 Allow all GEE tools for this session
+ROW en_US 1.5 420 310 21 21 Always allow
+ROW en_US 1.5 420 310 21 21 Deny
+ROW en_US 1.5 420 310 38 38 Permit this operation, then ask again next time.
+ROW en_US 1.5 420 310 38 38 Permit all Earth Engine operations during this chat session.
+ROW en_US 1.5 420 310 38 38 Permit external access now and remember this choice.
+ROW en_US 1.5 420 310 38 38 Block this operation and keep analysis inside loaded layers.
+en_US 1.5 420 {"width": 420, "height": 650, "scroll_max": 15, "keyboard": "passed"}
+PROMPT 236 217 217
+ROW en_US 2 320 210 28 28 Allow once
+ROW en_US 2 320 210 84 84 Allow all GEE tools for this session
+ROW en_US 2 320 210 28 28 Always allow
+ROW en_US 2 320 210 28 28 Deny
+ROW en_US 2 320 210 104 104 Permit this operation, then ask again next time.
+ROW en_US 2 320 210 104 104 Permit all Earth Engine operations during this chat session.
+ROW en_US 2 320 210 104 104 Permit external access now and remember this choice.
+ROW en_US 2 320 210 130 130 Block this operation and keep analysis inside loaded layers.
+en_US 2 320 {"width": 320, "height": 650, "scroll_max": 569, "keyboard": "passed"}
+PROMPT 336 155 155
+ROW en_US 2 420 310 28 28 Allow once
+ROW en_US 2 420 310 56 56 Allow all GEE tools for this session
+ROW en_US 2 420 310 28 28 Always allow
+ROW en_US 2 420 310 28 28 Deny
+ROW en_US 2 420 310 52 52 Permit this operation, then ask again next time.
+ROW en_US 2 420 310 78 78 Permit all Earth Engine operations during this chat session.
+ROW en_US 2 420 310 52 52 Permit external access now and remember this choice.
+ROW en_US 2 420 310 78 78 Block this operation and keep analysis inside loaded layers.
+en_US 2 420 {"width": 420, "height": 650, "scroll_max": 297, "keyboard": "passed"}
+PROMPT 236 36 36
+ROW pt_BR 0.75 320 210 11 11 Permitir uma vez
+ROW pt_BR 0.75 320 210 20 22 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 0.75 320 210 11 11 Permitir sempre
+ROW pt_BR 0.75 320 210 11 11 Negar
+ROW pt_BR 0.75 320 210 20 20 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 0.75 320 210 20 20 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 0.75 320 210 20 20 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 0.75 320 210 20 20 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 0.75 320 {"width": 320, "height": 650, "scroll_max": 7, "keyboard": "passed"}
+PROMPT 336 24 24
+ROW pt_BR 0.75 420 310 12 11 Permitir uma vez
+ROW pt_BR 0.75 420 310 11 11 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 0.75 420 310 12 11 Permitir sempre
+ROW pt_BR 0.75 420 310 12 11 Negar
+ROW pt_BR 0.75 420 310 12 10 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 0.75 420 310 18 20 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 0.75 420 310 12 10 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 0.75 420 310 12 10 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 0.75 420 {"width": 420, "height": 650, "scroll_max": 7, "keyboard": "passed"}
+PROMPT 236 64 64
+ROW pt_BR 1 320 210 14 14 Permitir uma vez
+ROW pt_BR 1 320 210 28 28 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 1 320 210 14 14 Permitir sempre
+ROW pt_BR 1 320 210 14 14 Negar
+ROW pt_BR 1 320 210 39 39 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 1 320 210 37 39 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 1 320 210 26 26 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 1 320 210 26 26 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 1 320 {"width": 320, "height": 650, "scroll_max": 29, "keyboard": "passed"}
+PROMPT 350 48 48
+ROW pt_BR 1 420 324 14 14 Permitir uma vez
+ROW pt_BR 1 420 324 26 28 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 1 420 324 14 14 Permitir sempre
+ROW pt_BR 1 420 324 14 14 Negar
+ROW pt_BR 1 420 324 26 26 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 1 420 324 26 26 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 1 420 324 13 13 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 1 420 324 26 26 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 1 420 {"width": 420, "height": 650, "scroll_max": 0, "keyboard": "passed"}
+PROMPT 236 144 144
+ROW pt_BR 1.5 320 210 21 21 Permitir uma vez
+ROW pt_BR 1.5 320 210 63 63 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 1.5 320 210 21 21 Permitir sempre
+ROW pt_BR 1.5 320 210 21 21 Negar
+ROW pt_BR 1.5 320 210 76 76 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 1.5 320 210 75 76 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 1.5 320 210 57 57 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 1.5 320 210 57 57 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 1.5 320 {"width": 320, "height": 650, "scroll_max": 250, "keyboard": "passed"}
+PROMPT 336 96 96
+ROW pt_BR 1.5 420 310 21 21 Permitir uma vez
+ROW pt_BR 1.5 420 310 42 42 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 1.5 420 310 21 21 Permitir sempre
+ROW pt_BR 1.5 420 310 21 21 Negar
+ROW pt_BR 1.5 420 310 57 57 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 1.5 420 310 56 57 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 1.5 420 310 38 38 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 1.5 420 310 38 38 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 1.5 420 {"width": 420, "height": 650, "scroll_max": 105, "keyboard": "passed"}
+PROMPT 236 248 248
+ROW pt_BR 2 320 210 56 56 Permitir uma vez
+ROW pt_BR 2 320 210 112 112 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 2 320 210 56 56 Permitir sempre
+ROW pt_BR 2 320 210 28 28 Negar
+ROW pt_BR 2 320 210 130 130 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 2 320 210 156 156 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 2 320 210 78 78 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 2 320 210 130 130 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 2 320 {"width": 320, "height": 650, "scroll_max": 776, "keyboard": "passed"}
+PROMPT 336 155 155
+ROW pt_BR 2 420 310 28 28 Permitir uma vez
+ROW pt_BR 2 420 310 84 84 Permitir todas as ferramentas do GEE nesta sessão
+ROW pt_BR 2 420 310 28 28 Permitir sempre
+ROW pt_BR 2 420 310 28 28 Negar
+ROW pt_BR 2 420 310 78 78 Permite esta operação e pede autorização novamente na próxima vez.
+ROW pt_BR 2 420 310 78 78 Permite todas as operações do Earth Engine durante esta sessão de conversa.
+ROW pt_BR 2 420 310 52 52 Permite o acesso externo agora e salva esta escolha.
+ROW pt_BR 2 420 310 78 78 Bloqueia esta operação e restringe a análise às camadas carregadas.
+pt_BR 2 420 {"width": 420, "height": 650, "scroll_max": 351, "keyboard": "passed"}
