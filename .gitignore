@@ -50,3 +50,17 @@ build_release.sh
 
 # Compatibility docs (local reference only)
 QGIS_COMPATIBILITY_RULES.md
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
+
+# Local search config for graft (re-admits graft/ to ripgrep/fd). Local-only,
+# like graft/ itself — ripgrep reads it from disk whether or not git tracks it.
+/.ignore
+
+# Local reference clones (upstream repos checked out for reading)
+/.worktrees/
+
+# Model-catalog exports from local tooling — regenerable, not part of the plugin
+/free_models*.csv
+/free_models*.json
